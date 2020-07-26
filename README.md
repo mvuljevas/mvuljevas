@@ -4,10 +4,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   7 hrs 27 mins   █████████████████░░░░░░░░   68.33 % 
-JSON         1 hr 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-HTML         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-TypeScript   27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-SCSS         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+ Make it Happen.
 ```
 <!--END_SECTION:waka-->
