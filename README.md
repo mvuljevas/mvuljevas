@@ -4,7 +4,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Liquid   1 hr 51 mins    █████████████████████▓░░░   86.28 % 
-SCSS     17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+
 ```
 <!--END_SECTION:waka-->
