@@ -4,6 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Liquid   16 mins         █████████████████████████   100.00 % 
+Liquid   27 mins         ███████████████████████▓░   94.41 % 
+YAML     1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 ```
 <!--END_SECTION:waka-->
