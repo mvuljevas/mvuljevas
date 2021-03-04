@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Liquid       53 mins         █████████████████████▒░░░   85.53 % 
+Liquid       53 mins         █████████████████████▒░░░   85.55 % 
 JavaScript   8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 % 
 ```
 <!--END_SECTION:waka-->
