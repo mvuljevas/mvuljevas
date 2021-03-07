@@ -4,7 +4,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 2 mins    █████████████████▒░░░░░░░   69.50 % 
-Liquid       53 mins         ███████▓░░░░░░░░░░░░░░░░░   30.41 % 
+JavaScript   1 hr 56 mins    ████████████████████░░░░░   79.95 % 
+JSON         23 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+YAML         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 ```
 <!--END_SECTION:waka-->
