@@ -9,9 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript        1 hr 32 mins    ██████████████████▓░░░░░░   74.74 % 
-YAML              17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Gettext Catalog   10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-HTML              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+YAML              13 mins         █████████████▓░░░░░░░░░░░   54.95 % 
+Gettext Catalog   10 mins         ██████████▒░░░░░░░░░░░░░░   41.63 % 
 ```
 <!--END_SECTION:waka-->
