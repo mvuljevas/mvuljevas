@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-YAML              13 mins         █████████████▓░░░░░░░░░░░   54.95 % 
-Gettext Catalog   10 mins         ██████████▒░░░░░░░░░░░░░░   41.63 % 
+YAML              26 mins         ██████████████████░░░░░░░   72.04 % 
+Gettext Catalog   10 mins         ███████░░░░░░░░░░░░░░░░░░   27.46 % 
 ```
 <!--END_SECTION:waka-->
