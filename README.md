@@ -9,7 +9,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-YAML              26 mins         ██████████████████░░░░░░░   72.04 % 
-Gettext Catalog   10 mins         ███████░░░░░░░░░░░░░░░░░░   27.46 % 
+Liquid            20 mins         ███████████▒░░░░░░░░░░░░░   44.84 % 
+YAML              14 mins         ████████░░░░░░░░░░░░░░░░░   32.09 % 
+Gettext Catalog   10 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.82 % 
 ```
 <!--END_SECTION:waka-->
