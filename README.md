@@ -9,8 +9,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 hrs 18 mins   ████████▓░░░░░░░░░░░░░░░░   35.01 % 
-SCSS         4 hrs 11 mins   ████████▓░░░░░░░░░░░░░░░░   34.11 % 
-Liquid       3 hrs 45 mins   ███████▓░░░░░░░░░░░░░░░░░   30.64 % 
+SCSS         4 hrs 11 mins   █████████░░░░░░░░░░░░░░░░   35.40 % 
+JavaScript   4 hrs 8 mins    ████████▓░░░░░░░░░░░░░░░░   35.03 % 
+Liquid       3 hrs 28 mins   ███████▒░░░░░░░░░░░░░░░░░   29.35 % 
 ```
 <!--END_SECTION:waka-->
