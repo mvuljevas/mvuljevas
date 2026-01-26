@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Mauricio, a **Fullstack Developer** and **Freelancer** dedicated to building high-quality digital experiences. My goal is to create products and tools that help other developers, designers, and people around the internet.</p>
+<p align="left">I'm Mauricio, a Fullstack Developer and Freelancer dedicated to building high-quality digital experiences. My goal is to create products and tools that help other developers, designers, and people around the internet.</p>
 
 ###
 
