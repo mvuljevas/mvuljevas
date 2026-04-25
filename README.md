@@ -8,7 +8,7 @@
 
 <h2 align="left">Facts</h2>
 
-<p align="left">⭐ Creating amazing stuff (and bugs) since 1990<br>Currently: 📚 Developing a game with C# and Unity Engine(it's a secret)<br>🎯 Goals: Get my own helicopter, before 2040 (I hope)</p>
+<p align="left">⭐ Creating amazing stuff (and bugs) since 1990<br>📚 Happening Now: Developing a game with C# and Unity Engine(it's a secret)<br>🎯 Goals: Get my own helicopter, before 2040 (I hope)</p>
 
 <h2 align="left">I'm strong with</h2>
 
