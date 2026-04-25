@@ -4,11 +4,11 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">I'm <b>Mauricio Vuljevas</b>, a <b>Fullstack Developer</b> and <b>Freelancer</b> dedicated to building high-quality digital experiences. My goal is to create products and tools that help other developers, designers, and people around the internet.</p>
+<p align="left">I'm <b>Mauricio Vuljevas</b>, a <b>Fullstack Developer</b>, passionate about build high-quality digital experiences.</p>
 
 <h2 align="left">Facts</h2>
 
-<p align="left">⭐ Creating amazing stuff (and bugs) since 1990<br>📚 I'm currently learning Generative AI<br>🎯 Goals: Get my own car 🚗, before 2040 (I hope)</p>
+<p align="left">⭐ Creating amazing stuff (and bugs) since 1990<br>Currently: 📚 Developing a game with C# and Unity Engine(it's a secret)<br>🎯 Goals: Get my own helicopter, before 2040 (I hope)</p>
 
 <h2 align="left">I'm strong with</h2>
 
