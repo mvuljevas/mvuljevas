@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://mvuljevas.com/custom-assets/github-hero.png" width="100%" alt="Mauricio's Hero Image" />
 </div>
+
 <br/>
+
 [![Tokscale Stats](https://tokscale.ai/api/embed/mvuljevas/svg?template=graph&color=pink&tokens=compact&cost=compact)](https://tokscale.ai/u/mvuljevas)
 
 <h1 align="left">Hey 👋 What's up?</h1>
