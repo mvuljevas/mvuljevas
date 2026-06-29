@@ -4,7 +4,11 @@
 
 <br/>
 
+<div align="center">
+  
 [![Tokscale Stats](https://tokscale.ai/api/embed/mvuljevas/svg?template=graph&color=pink&tokens=compact&cost=compact)](https://tokscale.ai/u/mvuljevas)
+
+</div>
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
