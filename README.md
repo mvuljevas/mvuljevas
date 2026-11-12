@@ -1,17 +1,3 @@
-<div align="center">
-  <img src="https://mvuljevas.com/custom-assets/github-hero.png" width="100%" alt="Mauricio's Hero Image" />
-</div>
-
-<br/>
-
-
-<div class="tokscale" align="center">
-  
-<img src="https://tokscale.ai/api/embed/mvuljevas/svg?template=graph&color=pink&tokens=compact&cost=compact" width="100%" alt="Mauricio's Tokscale Report" />
-
-</div>
-  
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">I'm <b>Mauricio Vuljevas</b>, a <b>Fullstack Developer</b>, passionate about build high-quality digital experiences.</p>
